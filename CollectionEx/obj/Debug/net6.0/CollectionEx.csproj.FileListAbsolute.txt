@@ -1,0 +1,15 @@
+C:\Users\Amit Limbasiya\source\repos\CollectionEx\CollectionEx\bin\Debug\net6.0\CollectionEx.exe
+C:\Users\Amit Limbasiya\source\repos\CollectionEx\CollectionEx\bin\Debug\net6.0\CollectionEx.deps.json
+C:\Users\Amit Limbasiya\source\repos\CollectionEx\CollectionEx\bin\Debug\net6.0\CollectionEx.runtimeconfig.json
+C:\Users\Amit Limbasiya\source\repos\CollectionEx\CollectionEx\bin\Debug\net6.0\CollectionEx.dll
+C:\Users\Amit Limbasiya\source\repos\CollectionEx\CollectionEx\bin\Debug\net6.0\CollectionEx.pdb
+C:\Users\Amit Limbasiya\source\repos\CollectionEx\CollectionEx\obj\Debug\net6.0\CollectionEx.csproj.AssemblyReference.cache
+C:\Users\Amit Limbasiya\source\repos\CollectionEx\CollectionEx\obj\Debug\net6.0\CollectionEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Limbasiya\source\repos\CollectionEx\CollectionEx\obj\Debug\net6.0\CollectionEx.AssemblyInfoInputs.cache
+C:\Users\Amit Limbasiya\source\repos\CollectionEx\CollectionEx\obj\Debug\net6.0\CollectionEx.AssemblyInfo.cs
+C:\Users\Amit Limbasiya\source\repos\CollectionEx\CollectionEx\obj\Debug\net6.0\CollectionEx.csproj.CoreCompileInputs.cache
+C:\Users\Amit Limbasiya\source\repos\CollectionEx\CollectionEx\obj\Debug\net6.0\CollectionEx.dll
+C:\Users\Amit Limbasiya\source\repos\CollectionEx\CollectionEx\obj\Debug\net6.0\refint\CollectionEx.dll
+C:\Users\Amit Limbasiya\source\repos\CollectionEx\CollectionEx\obj\Debug\net6.0\CollectionEx.pdb
+C:\Users\Amit Limbasiya\source\repos\CollectionEx\CollectionEx\obj\Debug\net6.0\CollectionEx.genruntimeconfig.cache
+C:\Users\Amit Limbasiya\source\repos\CollectionEx\CollectionEx\obj\Debug\net6.0\ref\CollectionEx.dll
